@@ -32,4 +32,7 @@ Ce projet est un **bot WhatsApp intelligent** développé avec Flask et Twilio, 
 - Utiliser la commande de démarrage : `python bot_whatsapp.py`
 
 ## Auteur
-Bienvenue Kapepa (alias Bonaventure) — Projet d’étude avec vocation professionnelle.
+Bonaventure Besebese — Projet d’étude avec vocation professionnelle.
+##Etudiant à L'université de Kinshasa 
+## Faculté des sciences et technologies 
+## Département de mathématiques & Statistiques et informatiques
